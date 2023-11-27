@@ -1,6 +1,6 @@
 # QR Code Generator
 
-
+## Downloads
 You can Download QR Code Generator application [here](https://github.com/magaiver007/url2qr/releases/download/v0.1/qrwithui.exe)
 
 You can see the source code for the QR Code Generator [here](https://github.com/magaiver007/url2qr/blob/v0.1/qrwithui.py)
