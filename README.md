@@ -1,5 +1,15 @@
 # QR Code Generator
 
+
+You can Download QR Code Generator application [here](https://github.com/magaiver007/url2qr/releases/download/v0.1/qrwithui.exe)
+
+You can see the source code for the QR Code Generator [here](https://github.com/magaiver007/url2qr/blob/v0.1/qrwithui.py)
+
+
+
+
+
+
 ## Overview
 This application allows users to generate QR codes from URLs. It's a simple, user-friendly tool that provides a quick way to convert any web link into a QR code, which can be saved as a PNG image.
 
